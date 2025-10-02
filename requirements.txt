@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+joblib
+python-dotenv
+tensorflow == 2.19.0
+pandas
+python-multipart
